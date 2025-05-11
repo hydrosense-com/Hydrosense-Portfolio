@@ -11,10 +11,10 @@ Through our in-house unit, BIM Tech®, we also offer advanced Building Informati
 
 Our Core Services:
 • Global Risk & Feasibility Reports
-Feasibility reports for construction, roadworks, drainage, housing, or industrial projects
-Flood and climate risk assessments
-Terrain and site risk analysis using GIS, Civil 3D, and remote tools
-Tailored mitigation recommendations
+ Feasibility reports for construction, roadworks, drainage, housing, or industrial projects
+ Flood and climate risk assessments
+ Terrain and site risk analysis using GIS, Civil 3D, and remote tools
+ Tailored mitigation recommendations
  
 • Flood & Climate Risk Services
 Flood hazard mapping
